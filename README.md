@@ -21,3 +21,7 @@ Required:
 
 Optional:  
 -i specify the interface to use (scapy will use default if not set)
+
+Disclaimer
+----------
+Not to be used for evil, only as a learning tool or where you have full written permission
